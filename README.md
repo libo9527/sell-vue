@@ -23,3 +23,11 @@ For a detailed explanation on how things work, check out the [guide](http://vuej
 # 建立图标字体
 
 https://icomoon.io
+
+# ESLint
+
+## 忽略某个限制
+
+```vue
+/* eslint-disable no-new */
+```
