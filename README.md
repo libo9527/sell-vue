@@ -31,3 +31,14 @@ https://icomoon.io
 ```vue
 /* eslint-disable no-new */
 ```
+
+# 目录设计
+
+common/stylus目录下是css预处理器
+
+# Stylus
+
+语法：
+
+1. 没有{}
+2. 没有；
