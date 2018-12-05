@@ -4,7 +4,7 @@
 
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 npm install
 
@@ -42,3 +42,9 @@ common/stylus目录下是css预处理器
 
 1. 没有{}
 2. 没有；
+
+# webpack
+
+## 打包入口文件
+
+dev-server.js
