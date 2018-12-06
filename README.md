@@ -61,6 +61,10 @@ vue-loader依赖中的postcss插件能自动搞定css兼容问题。
 
 [官网](https://router.vuejs.org/zh/)
 
+# vue-resource
+
+发送ajax请求
+
 # WebStorm
 
 [webstorm 不知道手贱点了什么，有时候会自动删除分号](https://segmentfault.com/q/1010000009184137)
