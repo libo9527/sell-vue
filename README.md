@@ -48,3 +48,10 @@ common/stylus目录下是css预处理器
 ## 打包入口文件
 
 dev-server.js
+
+# 布局
+
+## 移动端经典布局
+
+### Flax
+
